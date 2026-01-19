@@ -37,7 +37,7 @@ header .logo {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
@@ -68,7 +68,7 @@ header .logo {
 .nav-link:hover,
 .nav-link:active,
 .nav-link:focus,
-.ad-link:focus
+.ad-link:focus,
 .ad-link:hover {
     color: #404BBF
 }
@@ -124,4 +124,7 @@ footer .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
