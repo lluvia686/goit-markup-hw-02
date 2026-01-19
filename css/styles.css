@@ -41,9 +41,7 @@ header .logo {
     letter-spacing: 0.03em;
 }
 
-.logo span {
-    color: #4D5AE5;
-}
+
 
 .nav-link {
     font-size: 16px;
@@ -114,6 +112,10 @@ header .logo {
     text-align: center;
 }
 
+.portfolio-title {
+    text-align: center;
+}
+
 .foot {
     background-color: #2E2F42;
     color: #F4F4FD;
@@ -127,4 +129,8 @@ footer .logo {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+}
+
+.logo-span {
+    color: #4D5AE5;
 }
